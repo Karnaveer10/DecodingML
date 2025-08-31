@@ -1,0 +1,16 @@
+jupyter
+notebook
+ipykernel
+jupyterlab
+numpy
+pandas
+scipy
+matplotlib
+plotly
+seaborn
+scikit-learn
+xgboost
+
+
+
+
